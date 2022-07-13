@@ -1,1 +1,1 @@
-numpy study
+# Jupiter Notebook
